@@ -16,8 +16,8 @@ Example:
 
         for (int i = 0; i < arr.length; i++) {
             int carpim = 1;
-            for (int x : arr) {
-                carpim *= x;
+            for (int w : arr) {
+                carpim *= w;
             }
             if (carpim == arr[i] * arr[i]) {
                 System.out.println(true);
