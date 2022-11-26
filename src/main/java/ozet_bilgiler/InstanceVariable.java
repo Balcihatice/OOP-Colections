@@ -1,6 +1,6 @@
 package ozet_bilgiler;
 
-public class B03 {
+public class InstanceVariable {
 
     /*
   Minik bir boşluk doldurma: :yum: Instance Variable: Class seviyesinde ve method disinda

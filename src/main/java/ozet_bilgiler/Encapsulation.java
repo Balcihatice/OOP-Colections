@@ -1,6 +1,6 @@
 package ozet_bilgiler;
 
-public class B01 {
+public class Encapsulation {
 /*
     1) Encapsulation kisaca "......" demektir
     2) Basarili bir Encapsulation asagidaki ozelliklere sahip olmalidir.

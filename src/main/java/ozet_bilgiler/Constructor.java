@@ -1,6 +1,6 @@
 package ozet_bilgiler;
 
-public class B02 {
+public class Constructor {
   /*
     Constructor: ozel bir method’tur ve obje’yi baslatmamiz/create etmemiz icin gereklidir. Bir class’tan obje uretmek istedigimiz zaman o class’in contructor’unu kullanmis oluruz. Her obje uretmek istedigimiz zaman da new() keyword’unu kullaniriz.
     Method ise bir tur kodlar setidir. Java icerisinde istedigimiz bir noktada method call edebiliriz. Her method’un kendine ait ismi vardir.
