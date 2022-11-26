@@ -12,9 +12,7 @@ public class Setler {
     LinkedHashSet elemanlari siralamada zaman harcadigi icin HashSet`lre gore yavas calisir.
 
 
- */
-
-    /*
+ 
   Set : 1) unique(benzersiz tek) elemanlardan olusur, Set'lerin icinde bir eleman sadece bir kere kullanilabilir.
   mükerrer eleman olmaz.
    2) sadece bir null değeri alabilir.(treeSet hariç).Java elementleri unique yapmak icin HASH ALGORITMASI kullanir.
