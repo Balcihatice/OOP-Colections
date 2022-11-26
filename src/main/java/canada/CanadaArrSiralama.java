@@ -1,4 +1,4 @@
-package Canada;
+package canada;
 
 import java.util.Arrays;
 
