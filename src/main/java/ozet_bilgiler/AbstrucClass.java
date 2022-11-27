@@ -12,6 +12,11 @@ public class AbstrucClass {
     // ii) parent Classdaki tum abstract methodlari override etmeliyiz
 
     Bir method abstract ise child mutlaka o methodu override etmeli
+    Bir method parent class`ta abstract method ise child class
+o methodu overrid edip kullanmak zorundadir
+Bu yuzdenherhangi bir fonksiyonu child class icin mecbur
+yapmak istersek o methodu abstrac yapmaliyiz.
+
     Abstrarct Class`larda normal Classl`arda odugu gibi her turlu variable olusturulabilir.
             Interface`lerde ise variable`ler public static ve final olmak zorundadir
  3) Inheritance:

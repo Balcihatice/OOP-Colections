@@ -1,6 +1,17 @@
 package ozet_bilgiler;
 
 public class Encapsulation {
+
+// Encapsulation: "Data Hiding(Gizlemek)" demektir.
+// Data`yi Nicin gizlersiniz ? Data`yi dis etkenlerden korumak icin.
+// Data`yi nasil gizlersiniz? Acces modofier`ini "private" yaparak gizlerim.
+// Data`yi gizledikten sonra baska Class`lardan okumak istersen ne yaparsin?
+// "get" method`lar(getter) olusturarak gizledigimiz data`lari okunur hale getirebiliriz.
+// Data`yi gizledikten sonra baska Class`lardan degistirmek istersen ne yaparsin?
+// "set method"lar(setter) olusturarak gizledigimiz data`lari degistirebiliriz.
+// Variable`in data type`i ne ise get method`un return type`i ayni olmalidir.
+// get methodlar`i isimlendirirken "get+<variable name>" , ancak variable`in data type`i boolean ise "is+
+
 /*
     1) Encapsulation kisaca "......" demektir
     2) Basarili bir Encapsulation asagidaki ozelliklere sahip olmalidir.

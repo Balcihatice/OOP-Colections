@@ -28,6 +28,11 @@ public class Setler {
         değerlerin giriş sırasına dikkat edilmez. (LinkedHashSet hariç)
         3) HashSet "null" object'ini eleman olarak kullanabilir.
         Ancak birden fazla null degerini bir HashSet’e eklemek isterseniz sadece bir tane null degeri olur.
+        HashSetler:
+        1)tekrarsiz elemanlarda
+        2)sırlama onemli degilse
+        3)hız cok önemliyse
+        4)İndeks kullanmazlar
 
    LinkedHashset   : 1) Tekrarli eleman kabul etmezler. Elemanlari ekleme sirasina(insertion order) gore dizerler.
         2) LinkedHashSet, HashSet'den daha yavas calisir.
