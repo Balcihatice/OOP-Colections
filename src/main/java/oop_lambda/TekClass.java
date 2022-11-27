@@ -14,7 +14,7 @@ public class TekClass {
 // Javada genelde bu gibi fonksiyonlar üzerinden Lambda ifadeleri kullanılmaktadır.
          /*
      ForEach:
-     Stream içindeki veriyi tek tek tüketmekiçin oluşturulmuş bir yapıdır.
+     Stream içindeki veriyi tek tek tüketmek için oluşturulmuş bir yapıdır.
    **Terminal işlemi olduğundan dolayı stream artık tüketilmiş olarak kabul edilir ve
      artık kullanılamayacağı anlamına gelir.
      */
